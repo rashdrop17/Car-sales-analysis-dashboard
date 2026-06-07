@@ -89,4 +89,29 @@ An integrated dashboard combining multiple visualizations for business insights 
 
 ---
 
-## File Structure
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Development
+- Business Intelligence
+- Data Visualization
+- Excel Reporting
+
+---
+
+## Future Improvements
+
+- Build an interactive Power BI dashboard.
+- Develop predictive models for vehicle sales.
+- Perform advanced statistical analysis.
+- Create a web-based dashboard using Python and Plotly.
+
+---
+
+## Author
+
+Created as part of a Data Visualization and Analytics project using Excel.
